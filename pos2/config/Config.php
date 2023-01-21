@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', 'https://pos.tri-facil.com/pos/');
+define('BASE_URL', 'https://pos.tri-facil.com/pos2/');
 define('HOST', 'localhost');
 define('USER', 'pos_invetory');
 define('PASS', '5KJ7Hu@sO1c@cG8P');
