@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', 'http://localhost/pos/');
+define('BASE_URL', 'http://localhost/');
 define('HOST', 'localhost');
 define('USER', 'pos_invetory');
 define('PASS', 'invetory');
