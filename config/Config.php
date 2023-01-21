@@ -1,9 +1,9 @@
 <?php
 define('BASE_URL', 'http://localhost/pos/');
 define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
-define('DBNAME', 'sistema');
+define('USER', 'pos_invetory');
+define('PASS', 'invetory');
+define('DBNAME', 'pos_invetory');
 define('CHARSET', '');
 define('TITLE', 'POS VENTA');
 define('MONEDA', 'S/ ');
